@@ -6,3 +6,4 @@ Mata Pelajaran Produktif
 5. Sistem Komputer
 6. B. Inggris
 7. Kimia
+8. Matematika
